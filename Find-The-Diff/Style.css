@@ -1,0 +1,25 @@
+.boxl{
+    position: fixed;
+    width: 50%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border-right: 5px solid black;
+    
+
+}
+.boxr{
+    position: fixed;
+    width: 50%;
+    height: 100%;
+    top: 0;
+    left: 50%;
+
+
+}
+img{
+    position: absolute;
+
+    height: 60px;
+    width: 70px;
+}
